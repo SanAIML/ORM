@@ -50,6 +50,9 @@ admin.site.register(loan,loanAdmin)
 # OUTPUT
 ![alt text](<Screenshot 2024-11-29 104015.png>)
 
+![Screenshot 2024-12-06 141553](https://github.com/user-attachments/assets/58f5a1f4-3944-444d-923e-04c8fe5024ad)
+
+
 
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
